@@ -1,0 +1,11 @@
+{
+  "main.js": "/test-next/static/js/main.4a2ca089.chunk.js",
+  "main.js.map": "/test-next/static/js/main.4a2ca089.chunk.js.map",
+  "static/js/1.9466fa0f.chunk.js": "/test-next/static/js/1.9466fa0f.chunk.js",
+  "static/js/1.9466fa0f.chunk.js.map": "/test-next/static/js/1.9466fa0f.chunk.js.map",
+  "runtime~main.js": "/test-next/static/js/runtime~main.428f5f24.js",
+  "runtime~main.js.map": "/test-next/static/js/runtime~main.428f5f24.js.map",
+  "index.html": "/test-next/index.html",
+  "precache-manifest.5549e8f73037db9225fe4e00d1f1deaa.js": "/test-next/precache-manifest.5549e8f73037db9225fe4e00d1f1deaa.js",
+  "service-worker.js": "/test-next/service-worker.js"
+}
